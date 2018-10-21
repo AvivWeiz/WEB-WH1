@@ -1,0 +1,25 @@
+ 
+ .blue{
+	width: 30%;
+	height: 100%;
+	background-color: blue;
+	float:left;
+ }
+ .red{
+ 	width: 66%;
+ 	height: 100%;
+ 	background-color: red;
+ 	float:right;
+ }
+ .green{
+	 width: 50%;
+ 	height: 100%;
+ 	background-color: green;
+	 float:right;
+ }
+ .endRight{
+	 width: 10%;
+ 	height: 100%;
+	 background-color: blue;
+	 float:right;
+ }
